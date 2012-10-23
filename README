@@ -1,0 +1,6 @@
+This is the second laboratory project for the Advanced Operating Systems course, 
+of the summer semester, 2012.
+
+All the important code and comments are in the xordev.c file.
+
+The code was inspired by the phantom driver (drives/misc/phantom.c).
